@@ -6,7 +6,7 @@ A simple and elegant Task Manager built using **React**, **JavaScript**, **HTML*
 
 ## 🚀 Live Demo
 
-👉 [Click Here to Use the App](https://task-manager-ten-livid.vercel.app/tasks)
+👉 [Click Here to Use the App](task-manager-ten-livid.vercel.app)
 
 ---
 
